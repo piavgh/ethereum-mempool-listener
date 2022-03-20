@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "ethers": "node ./src/ethers.js",
+    "web3": "node ./src/web3.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
