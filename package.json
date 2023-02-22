@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.14.2",
     "dotenv": "^16.0.0",
     "ethers": "^5.6.1",
+    "moralis": "^2.14.2",
     "web3": "^1.7.1"
   }
 }
